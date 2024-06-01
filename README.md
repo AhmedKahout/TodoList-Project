@@ -1,4 +1,5 @@
 # TodoList-Project
+Application Name: Note Stream
 In project I developed Todo List Application using HTML, CSS and JavaScript.
 Application Features:
 1. User can Write custom notes
